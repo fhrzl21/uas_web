@@ -1,0 +1,65 @@
+.body{
+    margin-bottom: 0px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+
+}
+
+.jumbotron {
+    background-image: url(img/BG1.jpg);
+    background-size: cover;
+    height: 640px;
+    text-align: center;
+   
+}
+
+.jumbotron .display-4{
+    color:  #21E7A2 ;
+    font-weight: bolder;
+    font-size: 50px;
+    
+}
+.jumbotron p{
+    color:  #21E7A2 ;
+    font-weight: bolder;
+    font-size: 25px;
+    
+}
+#AboutUs{
+    background-image: url(img/BG.jpg);
+    background-position: center;
+    background-size: cover;
+    margin-bottom: 50px;
+    height: 640px;
+    color: white
+    
+}
+#AboutUs #p{
+    font-weight: bolder;
+    color: white;
+    
+
+}
+#AboutUS.row{
+    font-weight: bolder;
+    margin-right:0px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    background-size: cover;
+}
+.card{
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+}
+#produk{
+    background-color: #007bff ;
+    margin-top: 0px;
+}
+#findUs{
+    height: 640px;
+    margin-top: 50px;
+}
